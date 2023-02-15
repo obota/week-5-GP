@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nicanor777/week-5-GP/issues"
   },
-  "homepage": "https://github.com/Nicanor777/week-5-GP#readme"
+  "homepage": "https://github.com/Nicanor777/week-5-GP#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
