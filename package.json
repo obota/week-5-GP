@@ -1,0 +1,19 @@
+{
+  "name": "week-5-gp",
+  "version": "1.0.0",
+  "description": "\"Week 5 group project for Moring School\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicanor777/week-5-GP.git"
+  },
+  "author": "Diana Muchoki, Gloria Mutie, Derrick Kahora, Dennis Obota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicanor777/week-5-GP/issues"
+  },
+  "homepage": "https://github.com/Nicanor777/week-5-GP#readme"
+}
