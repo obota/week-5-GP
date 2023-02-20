@@ -1,4 +1,5 @@
 const mongoose = require('mongoose')
+
 const studentsModel = new mongoose.Schema({
    
     studentID: { required: true, type: String },
@@ -7,4 +8,5 @@ const studentsModel = new mongoose.Schema({
     course: { required: false, type: String },
     contact: { required: true, type: String },
 });
+
 module.exports = mongoose.model('students', studentsModel);
